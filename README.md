@@ -24,12 +24,12 @@ Quer algum apoio no desafio? [Junte-se à nossa comunidade](https://www.devmento
 
 - [GitHub Pages](https://pages.github.com/gabrielvieiratech/landing-page-tenis)
 
-<div style="text-align: center; margin:4rem auto; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); max-width: 80%;">
+<div style="text-align: center; margin:4rem auto;">
     <h4>Projeto Desktop</h4>
     <img src="./assets/images/projetoDesktop.png"  alt="Projeto no Desktop">
 </div>
 
-<div style="text-align: center; margin:4rem auto;  border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); max-width: 80%;">
+<div style="text-align: center; margin:4rem auto; ">
     <h4>Projeto Mobile</h4>
-    <img src="./assets/images/projetoMobile.png"  alt="Projeto no Mobile" style="">
+    <img src="./assets/images/projetoMobile.png"  alt="Projeto no Mobile">
 </div>
