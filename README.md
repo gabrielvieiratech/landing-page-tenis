@@ -22,7 +22,7 @@ Quer algum apoio no desafio? [Junte-se à nossa comunidade](https://www.devmento
 
 ## Projeto
 
-- [GitHub Pages](https://pages.github.com/gabrielvieiratech/landing-page-tenis)
+- [GitHub Pages](https://gabrielvieiratech.github.io/landing-page-tenis/)
 
 <div >
     <h4>Projeto Desktop</h4>
