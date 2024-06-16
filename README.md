@@ -29,7 +29,7 @@ Quer algum apoio no desafio? [Junte-se à nossa comunidade](https://www.devmento
     <img src="./assets/images/projetoDesktop.png"  alt="Projeto no Desktop">
 </div>
 
-<div style="text-align: center; margin:4rem auto; ">
+<div style="text-align: center; ">
     <h4>Projeto Mobile</h4>
-    <img src="./assets/images/projetoMobile.png"  alt="Projeto no Mobile">
+    <img src="./assets/images/projetoMobile.png"  alt="Projeto no Mobile" style="margin:auto;">
 </div>
