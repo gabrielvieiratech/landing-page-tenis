@@ -14,7 +14,7 @@ Você pode usar qualquer ferramenta além de HTML, CSS e JavaScript que desejar 
 
 Funcionalidades que seu projeto deve ter:
 
-- Deve seguir o mais fiel possivel ao design e protótipo fornecido.
+- Deve seguir o mais fiel possível ao design e protótipo fornecido.
 - Seu layout deve ser responsivo em diferentes telas como Desktop, tablet e celular.
 - Deve seguir as animações e hover passadas no protótipo do projeto.
 
@@ -22,11 +22,14 @@ Quer algum apoio no desafio? [Junte-se à nossa comunidade](https://www.devmento
 
 ## Projeto
 
-- [GitHub Pages](https://pages.github.com/gabrielvieiratech/landing-page-tenis) 
+- [GitHub Pages](https://pages.github.com/gabrielvieiratech/landing-page-tenis)
 
-## Projeto no Desktotp
-[projeto](./assets/images/projeto_desktop.png).
+<div style="text-align: center; margin:4rem auto; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); max-width: 80%;">
+    <h4>Projeto Desktop</h4>
+    <img src="./assets/images/projetoDesktop.png"  alt="Projeto no Desktop">
+</div>
 
-## Projeto no Mobile
-[projeto](./assets/images/projeto_mobile.png).
-
+<div style="text-align: center; margin:4rem auto;  border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); max-width: 80%;">
+    <h4>Projeto Mobile</h4>
+    <img src="./assets/images/projetoMobile.png"  alt="Projeto no Mobile" style="">
+</div>
